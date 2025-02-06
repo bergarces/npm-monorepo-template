@@ -1,0 +1,11 @@
+{
+	"name": "@bitbolic/library",
+	"version": "1.0.0",
+	"license": "ISC",
+	"type": "commonjs",
+	"main": "src/index.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
